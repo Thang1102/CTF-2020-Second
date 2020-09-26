@@ -18,3 +18,10 @@ Bạn chạy lệnh tìm kiếm :
 <img src="https://i.imgur.com/aKKBOlW.png" />
 copy đoạn code đó và sử dụng trình base64 decode 
 Kết quả: **KMACTF{blink_blink}**
+## Hello_KMA ( 5 point)
+ Đăng ký tài khoản  trên trang decord: https://discord.gg/2QeBsgt
+ Nó ở ngay trên đầu nhé
+<img src="https://i.imgur.com/FNuspLQ.png" />
+## Miku (20 point)
+Kiểm tra mã nguồn trang vào mục Application (f12)
+<img src="https://i.imgur.com/raaZwwB.png" />
