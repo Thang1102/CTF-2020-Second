@@ -15,4 +15,6 @@ Vào thư mục app vừa giải mã, chúng ta sẽ quan tâm đến thư mục
 Tiếp theo đó vào thư mục **com/example/blink/** nơi có chứa thông tin mà chúng ta cần tìm.
 Bạn chạy lệnh tìm kiếm : 
 <p>``` cat * | grep -i "ctf" ```</p>
-
+<img src="https://i.imgur.com/aKKBOlW.png" />
+copy đoạn code đó và sử dụng trình base64 decode 
+Kết quả: **KMACTF{blink_blink}**
